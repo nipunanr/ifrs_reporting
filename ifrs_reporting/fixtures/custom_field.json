@@ -1,0 +1,15 @@
+[
+  {
+    "doctype": "Custom Field",
+    "name": "Account-account_category",
+    "dt": "Account",
+    "fieldname": "account_category",
+    "fieldtype": "Link",
+    "label": "Account Category",
+    "insert_after": "account_type",
+    "options": "Account Category",
+    "in_standard_filter": 1,
+    "description": "Used by IFRS Financial Report Template filters",
+    "module": "IFRS Reporting"
+  }
+]

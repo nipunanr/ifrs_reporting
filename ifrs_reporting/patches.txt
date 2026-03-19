@@ -1,0 +1,1 @@
+ifrs_reporting.patches.v1_0.map_existing_account_categories
